@@ -1,4 +1,4 @@
-# arrumando_dpkg
+# arrumando_dpkgs
 Código criado especificamente para resolver meus problemas com pacotes com dependências quebradas em meu Linux Mint. Fique a vontade para adicionar melhorias.
 
 **Esse é um código feito para funcionar em lote e sendo executado no terminal do linux, então aqui vão algumas instruções para ele rodar bonitinho no seu PC.**
